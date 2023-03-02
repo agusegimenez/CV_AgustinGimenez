@@ -1,0 +1,59 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+header div{
+    text-align: center;
+}
+
+.fotoHeader{
+    width: 200px;
+    height: 212px;
+}
+
+h1{
+    letter-spacing: 8px;
+    text-align: center;
+    font-size: 35px;
+}
+
+main h2{
+    letter-spacing: 8px;
+    font-size: 20px;
+}
+
+p{
+    line-height: 10px;
+    padding-left: 23px;
+}
+
+.tituloSection, h1{
+    background-color: #c4c4c4;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+.textoIndentado1{
+    text-indent: 8rem;
+}
+
+.textoIndentado2{
+    text-indent: 6rem;
+}
+
+main, header{
+    margin-bottom: 80px;
+}
+
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
